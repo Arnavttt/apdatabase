@@ -1,0 +1,29 @@
+{
+  "site": "Five & A+",
+  "generated": "2026-05-11T20:27:57",
+  "entrypoint": "index.html",
+  "html_files": [
+    "apbio.html",
+    "apchem.html",
+    "apcsa.html",
+    "apcsp.html",
+    "apes.html",
+    "apgov.html",
+    "aplang.html",
+    "aplit.html",
+    "appsych.html",
+    "apush.html",
+    "apworld.html",
+    "arthistory.html",
+    "calcbc.html",
+    "collegealgebra.html",
+    "collegetrig.html",
+    "index.html",
+    "musictheory.html",
+    "physics.html"
+  ],
+  "file_count": 18,
+  "internal_missing_links": [],
+  "missing_anchor_links": [],
+  "notes": "Static GitHub Pages-ready package. Upload the contents of this folder to a GitHub repository root."
+}
